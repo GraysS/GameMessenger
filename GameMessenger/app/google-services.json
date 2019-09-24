@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "964243983886",
+    "firebase_url": "https://gamemessenger-gcm.firebaseio.com",
+    "project_id": "gamemessenger-gcm",
+    "storage_bucket": "gamemessenger-gcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964243983886:android:79f4771285ddeb9a",
+        "android_client_info": {
+          "package_name": "org.gamemessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964243983886-ivrd0q012n9vulfiidhc11fmb2ji67g2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.gamemessenger",
+            "certificate_hash": "744977e27677651c27afc1ff603a69f71763d0a7"
+          }
+        },
+        {
+          "client_id": "964243983886-0im4f9u9i81b2b4t40fsqceiijicsc59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxs0Ikp9GvZ9rVHHQ9QkpsWRVl92NOIyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964243983886-0im4f9u9i81b2b4t40fsqceiijicsc59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

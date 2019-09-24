@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#808080</color>
+
+    <!--       MessageFriendsActivity                  -->
+    <color name="colorMyMessage">#90EE90</color>
+
+    <color name="green">#1db34c</color>
+    <color name="list_divider">#dedede</color>
+    <color name="bg_bubble_self">#E1E1E1</color>
+</resources>

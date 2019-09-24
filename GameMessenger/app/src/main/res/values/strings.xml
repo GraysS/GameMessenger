@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">GameMessenger</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="nickname">nickname</string>
+    <string name="password">password</string>
+    <string name="empty">Fill in all the fields</string>
+    <string name="Okay">Okay</string>
+    <string name="incorrect">You entered an incorrect username or password</string>
+    <string name="connect">Check internet connection</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_search">Search</string>
+    <string name="action_person_add">person_add</string>
+    <string name="action_done">Done</string>
+
+    <string name="menu_create_group">Create Group</string>
+    <string name="menu_profile">My Profile</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_notifications">Notifications</string>
+
+    <string name="menu_on_notifications">On Notifications</string>
+    <string name="menu_off_notifications">Off Notificaions</string>
+    <string name="menu_clear_history">Clear History</string>
+
+    <string name="menu_item_notifications">item notifications</string>
+    <string name="menu_item_delete">item delete</string>
+
+    <string name="nav_logout">Are you sure you want to quit?</string>
+
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="addfriends">Do you really want to add him as a friend?
+                            <br />
+                            <b>Note: when a friend request is sent, the one to whom you threw the request must confirm in the notifications</b>
+    </string>
+
+    <string name="btn_spam">Spam</string>
+    <string name="btn_add">Add</string>
+    <string name="Notification">Notification</string>
+
+    <string name="notification_users">wants to add you as a friend</string>
+    <string name="notification_add_error">You have already sent a notification wait a response from</string>
+    <string name="notification_add">You have sent a notification, wait for confirmation from the user</string>
+    <string name="notification_get_error">You have already received an notification from the user</string>
+    <string name="CheckNotification">Check</string>
+
+    <string name="et_message">Message</string>
+
+</resources>
